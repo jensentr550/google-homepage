@@ -1,0 +1,41 @@
+.navbar {
+    position: fixed;
+    width: 99%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    padding-top: 100px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.buttons {
+    padding-top: 30px;
+    margin: 0 auto;
+}
+
+#search-bar {
+    width: 40%;
+    height: 40%;
+    border-radius: 20px;
+    margin: 0 0 0 0;
+}
